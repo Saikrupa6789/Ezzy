@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55ea6f1a.css",
+    "main.js": "/static/js/main.977cf294.js",
+    "static/js/453.8191a7e9.chunk.js": "/static/js/453.8191a7e9.chunk.js",
+    "static/media/signup-bg.png": "/static/media/signup-bg.701687695b47b5866258.png",
+    "static/media/icon3.png": "/static/media/icon3.30e6b73e0f15ba462abb.png",
+    "static/media/bike1.png": "/static/media/bike1.06d3f72825f82e41c3b5.png",
+    "static/media/bike2.png": "/static/media/bike2.61cf143f9c8b63d9f7da.png",
+    "static/media/icon1.png": "/static/media/icon1.80afab6b2108b4da6479.png",
+    "static/media/sm3.png": "/static/media/sm3.7c0cb499003b1fb6f94b.png",
+    "static/media/icon2.png": "/static/media/icon2.f612f94330a944340615.png",
+    "static/media/sm2.png": "/static/media/sm2.f76c1890759a1e6660f5.png",
+    "static/media/sm1.png": "/static/media/sm1.848338829b23fad8c2c7.png",
+    "static/media/home-bg.png": "/static/media/home-bg.a76ecd6a64b2d2c21fe2.png",
+    "index.html": "/index.html",
+    "static/media/Giaza.otf": "/static/media/Giaza.c6eaf2189a7761a88cd2.otf",
+    "main.55ea6f1a.css.map": "/static/css/main.55ea6f1a.css.map",
+    "main.977cf294.js.map": "/static/js/main.977cf294.js.map",
+    "453.8191a7e9.chunk.js.map": "/static/js/453.8191a7e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55ea6f1a.css",
+    "static/js/main.977cf294.js"
+  ]
+}
